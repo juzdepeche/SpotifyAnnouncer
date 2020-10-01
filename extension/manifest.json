@@ -1,0 +1,16 @@
+{
+    "name": "Spotify Announcer",
+    "version": "1.0",
+    "description": "Announce the song that is currently playing",
+	"manifest_version": 2,
+	"background": {
+		"scripts": [
+			"socket.io.js",
+			"background.js"
+		]
+	},
+	"permissions": [
+		"http://localhost:8888/*",
+		"https://accounts.spotify.com/*"
+    ]
+}

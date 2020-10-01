@@ -1,0 +1,5 @@
+{
+	"clientId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"clientSecret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+	"redirectUri": "http://localhost:8888/SpotifyAuthentification/callback"
+}
